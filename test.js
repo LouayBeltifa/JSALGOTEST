@@ -59,6 +59,7 @@ assertEqual(sumOfDigits(9), 9, "Test 3");
 console.log("\n▶️ findMissing Tests");
 assertEqual(findMissing([1, 2, 4, 5]), 3, "Test 1");
 assertEqual(findMissing([3, 7, 1, 2, 8, 4, 5]), 6, "Test 2");
+assertEqual(findMissing([1, 2, 3]), -1, "Test 3");
 
 // 3. isAnagram
 console.log("\n▶️ isAnagram Tests");
