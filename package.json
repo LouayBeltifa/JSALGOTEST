@@ -1,0 +1,12 @@
+{
+  "name": "jsalgotest",
+  "version": "1.0.0",
+  "main": "solutions.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
